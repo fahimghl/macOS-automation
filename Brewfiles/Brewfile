@@ -41,4 +41,21 @@ brew "zsh-syntax-highlighting"
 
 # Cask Apps
 
+cask "google-chrome"
+cask "docker"
+cask "virtualbox"
+cask "virtualbox-extension-pack"
+cask "vagrant"
+cask "vagrant-manager"
+cask "dropbox"
+cask "whatsapp"
+cask "skype"
+cask "slack"
+cask "github"
+cask "iterm2"
+cask "postman"
+cask "tor-browser"
+cask "vlc"
+cask "spotify"
+
 # Mas Tools
