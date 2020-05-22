@@ -38,6 +38,7 @@ brew "wget"
 brew "yarn"
 brew "zsh-completions"
 brew "zsh-syntax-highlighting"
+brew "mas"
 
 # Cask Apps
 
@@ -59,3 +60,10 @@ cask "vlc"
 cask "spotify"
 
 # Mas Tools
+
+mas "Xcode"
+mas "Server"
+mas "OneDrive"
+mas "Twitter"
+mas "Speedtest"
+mas "The Unarchiver"
