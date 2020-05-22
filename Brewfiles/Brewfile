@@ -1,3 +1,5 @@
+# CLI Tools
+
 brew "ansible"
 brew "aws-iam-authenticator"
 brew "awscli"
@@ -36,3 +38,7 @@ brew "wget"
 brew "yarn"
 brew "zsh-completions"
 brew "zsh-syntax-highlighting"
+
+# Cask Apps
+
+# Mas Tools
