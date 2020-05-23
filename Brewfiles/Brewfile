@@ -18,7 +18,7 @@ brew "kind"
 brew "kubebuilder"
 brew "kubernetes-cli"
 brew "kyoh86/tap/richgo"
-brew "minikube
+brew "minikube"
 brew "nmap"
 brew "node"
 brew "openshift-cli"
@@ -39,6 +39,7 @@ brew "yarn"
 brew "zsh-completions"
 brew "zsh-syntax-highlighting"
 brew "mas"
+brew "bundle"
 
 # Cask Apps
 
