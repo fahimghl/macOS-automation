@@ -61,10 +61,7 @@ cask "vlc"
 cask "spotify"
 
 # Mas Tools
-
-mas "Xcode"
-mas "Server"
-mas "OneDrive"
-mas "Twitter"
-mas "Speedtest"
-mas "The Unarchiver"
+mas "Xcode", id: 497799835
+mas "OneDrive", id: 823766827
+mas "Twitter", id: 1482454543
+mas "Speedtest", id: 1153157709
